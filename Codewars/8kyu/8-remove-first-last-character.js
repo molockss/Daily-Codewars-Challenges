@@ -24,6 +24,7 @@ describe("Tests", () => {
 - We can use Splice, since its used only for arrays
 - charAt ONLY returns the character at a speciifced index
 - Therefore we can use Substring to return part of the string
+We could of used SLICE since that works for strings
  */
 
 
