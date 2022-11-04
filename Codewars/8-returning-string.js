@@ -16,7 +16,7 @@ describe("Basic tests",() =>{
     assert.strictEqual(greet("Ryan"), "Hello, Ryan how are you doing today?");
 
     Pseudocode
-    - Template literal needs to be used
+    - Template literal has to be used 
 
 
 */
