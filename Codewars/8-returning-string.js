@@ -26,4 +26,4 @@ describe("Basic tests",() =>{
 // }
 
 
-const greet = name => `Hello, ${name} how are you doing today?l`
+const greet = name => `Hello, ${name} how are youu doing today?`
